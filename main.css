@@ -1,0 +1,17 @@
+body {
+    background-image: "prohor.jpg";
+    background-repeat: repeat;
+}
+
+span {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    color: white;
+    font-size: 500px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
